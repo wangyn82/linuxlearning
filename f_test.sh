@@ -1,4 +1,5 @@
 #/bin/bash
+#This is auto fdisk vdb. The shell can be use on Chinese and English language.
 
 tmp="${LANG%.*}"
 
